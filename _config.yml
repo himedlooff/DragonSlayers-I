@@ -1,20 +1,13 @@
 # Base configuration
-permalink: /:title 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-markdown: redcarpet
-pygments: true
-
-# Title
-name: DragonSlayers-I
-subtitle: An information board for the Clash of Clans clan.
+permalink: /:title
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
-#baseurl: ''
 baseurl: '/DragonSlayers-I'
 
-# Prose.io config options
-prose:
-  rooturl: ""
+# Google Analytics
+ga:
+  root: 'himedlooff.github.io'
+  id: 'UA-46767514-1'

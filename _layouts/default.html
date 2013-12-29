@@ -5,8 +5,8 @@
 
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="{{ site.subtitle }}" />
-    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ page.subtitle }}" />
+    <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
     <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
@@ -105,7 +105,7 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-46767514-1', 'himedlooff.github.io');
+      ga('create', {{ site.ga.id }}, {{ site.ga.root }});
       ga('send', 'pageview');
 
     </script>

@@ -1,7 +1,9 @@
 ---
 layout: default
 published: true
-title: DragonSlayersJr
+title: DragonSlayers I
+subtitle: An information board for the Clash of Clans clan.
+editor: Eagles235
 ---
 
 # The basics
