@@ -77,7 +77,7 @@
             $historyItem.find('.post-history-message').html(commitMessage);
             $historyItem.find('.post-history-date').html(dateStr);
 
-            if (data[i].commit.author.name === 'Eagles235') {
+            if (data[i].commit.author.name === '{{ page.editor }}') {
               $commits = $commits.add( $historyItem );
             }
 
@@ -105,7 +105,7 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', {{ site.ga.id }}, {{ site.ga.root }});
+      ga('create', '{{ site.ga.id }}', '{{ site.ga.root }}');
       ga('send', 'pageview');
 
     </script>
