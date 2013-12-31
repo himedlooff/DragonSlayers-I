@@ -106,6 +106,21 @@ Currently accept players of all levels.  Elders from the main clan will come and
 4. At the same time we will lower the requirement for DragonSlayersJr to ease with the recruiting of new members to make up for the lost of the 10 strong elders
 5. We will leave good and strong elders in DragonSlayerJr to make sure the clan continue to do well and grow.  REMEMBER that DragonSlayersJr is still our main clan at this early stage
 
+
+**Stage 2:** Growing both DragonSlayers-I and DragonSlayersJr
+
+1. Elders from both clans will recruit members and send new members to the appropriate clans
+2. To help us grow fast, we will set both clans to "Anyone can join" but set the trophies a little higher.  
+3. Once a new member join, we will point them to the website and ask them to move to the appropriate clan.  
+4. If the new members are not willing to move to the "lower" clan, we will let them stay for a few days then the leader will "kick" them with the message of asking them to join the appropriate clan.
+5. As DragonSlayersJr growing and reaching 45 members, we will slowly, one by one move qualify active elders to DragonSlayers-I
+
+**Stage 3:** Reaching stability for both clans
+1. (To be added at a later time.)
+
+
+**PREVIOUS WEEK**
+
 **Active King/Queen Contest**
 
 **When:** From 12/23/2013 to 1/5/2014
