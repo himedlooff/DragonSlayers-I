@@ -8,7 +8,7 @@ editor: Eagles235
 
 # The Mission
 
-We want to have a family of clans, a clan network, where members of all ages and levels who are loyal, friendly, and nice can play together.  All members will be treated with respect.  We want to provide clans with the appropriate troops strenght and activeness for all members.  Friends from higher level clan can move down to help lower level friends.  Friends from lower level clan can move up for a short time to get good troops and visit friends from high level clan.  Friendships formed through Clash-of-Clans are easily maintained when friends move up within our clan network.  Leaders and elders will move among the clans to foster the camaraderie among clan members.
+We want to have a family of clans, a clan network, where members of all ages and levels who are loyal, friendly, and nice can play together.  All members will be treated with respect.  We want to provide clans with the appropriate troop strength and activeness for all members.  Friends from higher level clans can move down to help lower level friends.  Friends from lower level clans can move up for a short time to get good troops and visit friends from high level clans.  Friendships formed through Clash-of-Clans are easily maintained when friends move up within our clan network.  Leaders and elders will move among the clans to foster the camaraderie among clan members.
 
 # The Clans
 
