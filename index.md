@@ -12,7 +12,7 @@ We want to have a family of clans, a clan network, where members of all ages and
 
 # The Clans
 
-**Currently We have 4 clans:** DragonSlayers-I, DragonSlayersJr, DragonSlayerJR, SlayersVacation
+**Currently We have 4 clans:** DragonSlayers-I, [DragonSlayersJr](http://bit.ly/dragonslayersjr), DragonSlayerJR, SlayersVacation
 
 **DragonSlayers-I:** Our most active clan for level 60+ or minimum all troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
 
