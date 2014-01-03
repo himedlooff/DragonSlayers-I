@@ -44,7 +44,7 @@ Elder Requirements:  (subjected to change as our clan grow)
 
 1. Donate 700 to get promotion from member to elder
 2. Donate 600 to remain elder
-3. Must maintain 1:3 donate/received ratio to remain elder
+3. Must maintain 1:3 donated/received ratio or better to remain elder
 
 **Leaders**
 
@@ -73,7 +73,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 1. Donate 500 to get promotion from member to elder
 2. Donate 400 to remain elder
-3. Must maintain 1:3 donate/received ratio to remain elder
+3. Must maintain 1:3 donated/received ratio or better to remain elder
 
 **Leaders**
 
@@ -101,7 +101,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 1. Donate 300 to get promotion from member to elder
 2. Donate 200 to remain elder
-3. Must maintain 1:3 donate/received ratio to remain elder
+3. Must maintain 1:3 donated/received ratio or better to remain elder
 
 - Leader: L.A.S.E.R
 - Co-leaders: (Selected elders from the main clain: Uncharted2000, Eagles, Himedlooff, AMMJRNguyen,...)
