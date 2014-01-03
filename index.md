@@ -16,7 +16,7 @@ We want to have a good family of clans, **a clan network**, where members of all
 
 **DragonSlayers-I:** Our most active clan for level 65+ or minimum all Tier I & I troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
 
-**DragonSlayersJr:** Our current main clan, and will remain as our main clan while **DragonSlayers-I** is still growing.  Level 50+ or minimum archers level 4.  Require a minimum donation of 200.
+**DragonSlayersJr:** Our current main clan, and will remain as our main clan while **DragonSlayers-I** is still growing.  Required Level 55+ or minimum archers level 4.  Required a minimum donation of 200.
 
 **DragonSlayerJr:** Members of all levels are welcomed.  Minimum donation requirement 100.
 
@@ -35,12 +35,12 @@ We want to have a good family of clans, **a clan network**, where members of all
 
 We are a level 65+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a **ROCK'IN ACTIVE** clan for active players who love this game and like each other.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 65+. The level of our members are constantly rising, and we will soon raise our level.
 
-Donation Requirement: 
+Donation Requirements: 
 
 1. Keep your donated to received ratio within 1:3 (1 donation : 3 received)
 2. Current minimum donation is 500 (subjected to change as our clan grow)
 
-Elder Requirement:  (subjected to change as our clan grow)
+Elder Requirements:  (subjected to change as our clan grow)
 
 1. Donate 700 to get promotion from member to elder
 2. Donate 600 to remain elder
