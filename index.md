@@ -165,11 +165,11 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 **Winners from DragonSlayersJr:**
 
-1. The Active King: alex medich (Donated 2617, Received 2167) 
+1. The Active King: **Alex Medich** Donated 2617, Received 2167.  (1/5/2014) 
 
 **Winners from DragonSlayerJR (sister/feeder clan):**
 
-1. The Active King: Pepe (Donated 1894, Received 1303)
+1. The Active King: **Pepe** Donated 1894, Received 1303.  (1/5/2014)
 
 # Other COC Links
 
