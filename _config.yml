@@ -1,5 +1,7 @@
 # See http://jekyllrb.com/docs/github-pages/ for more info
 baseurl: '/DragonSlayers-I'
+baseurlremote:  '/DragonSlayers-I'
+assetsurl:      'assets/'
 
 # Google Analytics
 ga:
