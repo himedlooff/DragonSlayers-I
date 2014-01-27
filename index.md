@@ -24,7 +24,7 @@ We want to have a good family of clans, **a clan network**, where members of all
 
 **THE FUTURE PLAN:**
 
-***DragonSlayers-II:*** *(Will form this clan in 1 or 2 months.  Require a minimum donation of 400.)*
+***DragonSlayers-II:*** *(Will form this clan in 1 or 2 months.  Require a minimum donation of 400.  Merging in progress)*
 
 ***DragonSlayers-III:*** *(Will form with members of DragonSlayersJr and DragonSlayerJR.)*
 
