@@ -29,9 +29,7 @@ We want to have a good family of clans, **a clan network**, where members of all
 ***DragonSlayers-III:*** *(Will form with members of DragonSlayersJr and DragonSlayerJR.)*
 
 
-# The basics
-
-**DragonSlayers-I:**
+# **DragonSlayers-I**
 
 We are a level 70+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a **ROCK'IN ACTIVE** clan for active players who love this game and like each other.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 65+. The level of our members are constantly rising, and we will soon raise our level.
 
@@ -48,8 +46,8 @@ Elder Requirements:  (subjected to change as our clan grow)
 
 **Leaders**
 
-- Leader:    Eagles, SoulemotionUncharted2000
-- Co-leader: Uncharted2000, Himedlooff
+- Leader:    Eagles, Soulsemotion, Uncharted2000
+- Co-leader: Himedlooff, AMMJRNguyen
 
 **How to accept requests**
 
@@ -60,7 +58,7 @@ Elder Requirements:  (subjected to change as our clan grow)
 # Sister/Feeder Clan Information
 
 
-**DragonSlayersJr:**
+#**DragonSlayersJr**
 
 We are a level 55+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a active clan for active players.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 55+. The level of our members are constantly rising, and we will soon raise our level.
 
@@ -77,8 +75,8 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 **Leaders**
 
-- Leader:    Eagles
-- Co-leader: Uncharted2000, Himedlooff, AMMJRNguyen
+- Leader:    Uncharted2000, Eagles
+- Co-leader: Himedlooff, AMMJRNguyen
 
 **How to accept requests**
 
@@ -88,7 +86,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 
 
-#**DragonSlayerJR:** 
+#**DragonSlayerJR** 
 
 Currently accept players of all levels.  Elders from the main clan will come and help with donation and recruit.
 
@@ -103,8 +101,8 @@ Elder Requirement:  (subjected to change as our clan grow)
 2. Donate 200 to remain elder
 3. Must maintain 1:3 donated/received ratio or better to remain elder
 
-- Leader: L.A.S.E.R
-- Co-leaders: (Selected elders from the main clain: Uncharted2000, Eagles, Himedlooff, AMMJRNguyen,...)
+- Leader: L.A.S.E.R, UnchartedWater
+- Co-leaders: (Selected elders from other clans will also serve as rotational leaders.)
 
 # Current Events
 
@@ -141,11 +139,11 @@ Elder Requirement:  (subjected to change as our clan grow)
 **Stage 4:** The Creation of DragonSlayers-III
 
 
-**PREVIOUS WEEK**
+**PREVIOUS WEEKS**
 
 **Active King/Queen Contest**
 
-**When:** From 12/23/2013 to 1/5/2014
+**When:** From 12/23/2013 to 1/5/2014 (COMPLETED)
 
 **Who:** All can participate including leader and co-leader
 
