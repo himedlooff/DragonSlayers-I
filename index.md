@@ -88,7 +88,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 
 
-**DragonSlayerJR:** 
+#**DragonSlayerJR:** 
 
 Currently accept players of all levels.  Elders from the main clan will come and help with donation and recruit.
 
