@@ -14,7 +14,7 @@ We want to have a good family of clans, **a clan network**, where members of all
 
 **THE CURRENT 4 CLANS:** DragonSlayers-I, [DragonSlayersJr](http://bit.ly/dragonslayersjr), DragonSlayerJR, SlayersVacation
 
-**DragonSlayers-I:** Our most active clan for level 65+ or minimum all Tier I & I troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
+**DragonSlayers-I:** Our most active clan for level 70+ or all Tier I & II troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
 
 **DragonSlayersJr:** Our current main clan, and will remain as our main clan while **DragonSlayers-I** is still growing.  Required Level 55+ or minimum archers level 4.  Required a minimum donation of 200.
 
@@ -29,38 +29,35 @@ We want to have a good family of clans, **a clan network**, where members of all
 ***DragonSlayers-III:*** *(Will form with members of DragonSlayersJr and DragonSlayerJR.)*
 
 
-# The basics
+# **DragonSlayers-I**
 
-**DragonSlayers-I:**
-
-We are a level 65+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a **ROCK'IN ACTIVE** clan for active players who love this game and like each other.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 65+. The level of our members are constantly rising, and we will soon raise our level.
+We are a level 70+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a **ROCK'IN ACTIVE** clan for active players who love this game and like each other.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 65+. The level of our members are constantly rising, and we will soon raise our level.
 
 Donation Requirements: 
 
 1. Keep your donated to received ratio within 1:3 (1 donation : 3 received)
-2. Current minimum donation is 500 (subjected to change as our clan grow)
+2. Current minimum donation is 400 (subjected to increase as our clan grow)
 
 Elder Requirements:  (subjected to change as our clan grow)
 
-1. Donate 700 to get promotion from member to elder
-2. Donate 600 to remain elder
+1. Donate 600 to get promotion from member to elder
+2. Donate 500 to remain elder
 3. Must maintain 1:3 donated/received ratio or better to remain elder
 
 **Leaders**
 
-- Leader:    Eagles
-- Co-leader: Uncharted2000, Himedlooff
+- Leader:    Eagles, Soulsemotion, Uncharted2000
+- Co-leader: Himedlooff, AMMJRNguyen
 
 **How to accept requests**
 
-1. The requesting player's level should be 65+ or advance Town Hall 7 with all Tier I & II troops level 4.
+1. The requesting player's level should be 70+ or advance Town Hall 7 with all Tier I & II troops level 4.
 2. The requesting player's "Friend in Need" total should be around their level times 100. For example if the player is level 72 then their "Friend in Need" status should be 7200 or higher.  Beware of players with extremely low "Friend in Need" status.
-3. Exceptions will be made for player's level in the high 50's or low 60's with very high "Friend in Need" status.
-
-# Sister/Feeder Clan Information
+3. Exceptions will be made for player's level in the low 60's with very high "Friend in Need" status.
 
 
-**DragonSlayersJr:**
+
+#**DragonSlayersJr**
 
 We are a level 55+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a active clan for active players.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 55+. The level of our members are constantly rising, and we will soon raise our level.
 
@@ -77,8 +74,8 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 **Leaders**
 
-- Leader:    Eagles
-- Co-leader: Uncharted2000, Himedlooff, AMMJRNguyen
+- Leader:    Uncharted2000, Eagles, L.A.S.E.R
+- Co-leader: Himedlooff, AMMJRNguyen
 
 **How to accept requests**
 
@@ -88,7 +85,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 
 
-**DragonSlayerJR:** 
+#**DragonSlayerJR** 
 
 Currently accept players of all levels.  Elders from the main clan will come and help with donation and recruit.
 
@@ -103,49 +100,42 @@ Elder Requirement:  (subjected to change as our clan grow)
 2. Donate 200 to remain elder
 3. Must maintain 1:3 donated/received ratio or better to remain elder
 
-- Leader: L.A.S.E.R
-- Co-leaders: (Selected elders from the main clain: Uncharted2000, Eagles, Himedlooff, AMMJRNguyen,...)
+- Leader: L.A.S.E.R, UnchartedWater
+- Co-leaders: (Selected elders from other clans will also serve as rotational leaders.)
 
 # Current Events
 
 **NEW INFORMATION:** 
 
-**Formation of DragonSlayers clan network:**
+**Formation of DragonSlayers clan network:** We have completed stage 1 and are currently executing **Stage 2**.
 
-**Stage 1:** The formation of **DragonSlayers-I**
+**Stage 1:** The formation of **DragonSlayers-I** (Stage 1 COMPLETED)
 
-1. We will select 8-10 strong/active (not 8-10 best) elders from DragonSlayersJr to form the startup group of DragonSlayers-I
-2. These elders must be the chatty bunch to give the new clan the vibrante/active atmosphere
-3. These elders must give a strong and constant push to help recruit new players for **DragonSlayers-I**
-4. At the same time we will lower the requirement for **DragonSlayersJr** to ease with the recruiting of new members to make up for the lost of the 10 strong elders
-5. We will leave good and strong elders in **DragonSlayersJr** to make sure the clan continue to do well and grow.  REMEMBER that **DragonSlayersJr** is still our **main clan** at this early stage
+REMEMBER that **DragonSlayersJr** is still our **main clan** at this early stage
 
 
 **Stage 2:** Growing both **DragonSlayers-I** and **DragonSlayersJr**
 
 1. Elders from both clans will recruit members and send new members to the appropriate clans
-2. To help us grow fast, we will set both clans to "Anyone can join" but set the trophies a little higher.  
-3. Once a new member join, we will point them to the website and ask them to move to the appropriate clan.  
-4. If the new members are not willing to move to the "lower" clan, we will let them stay for a few days then the leader will "kick" them with the message of asking them to join the appropriate clan.
-5. As DragonSlayersJr growing and reaching 45 members, we will slowly, one by one move qualify active elders to DragonSlayers-I
-6. Qualified elders from **DragonSlayerJR** will be promoted to **DragonSlayersJr**
+2. Elders accept the new members based on level, friend-in-need status, know the exception parameters for your clan.  
+3. When members with lower level than expected get into our clan and are not willing to move to the "lower" clan, we will let them stay for awhile then the leader will "kick" them with the message of asking them to join the appropriate clan.
 
 **Stage 3:** Reaching stability for both clans, **DragonSlayers-I** & **DragonSlayersJr**, and the creation of **DragonSlayers-II**
 
 1. If things are going well for both clan, in 1-2 months we should reach 35 stable members in **DragonSlayers-I** and 45 members in **DragonSlayersJr**
-2. If things go well, we should be able to move all qualified elders from **DragonSlayersJr** to **DragonSlayers-I**, at this point, **DragonSlayers-I** will become our **main clan**.
-3. The rest of the active players from **DragonSlayersJr** will move to another new clan **DragonSlayers-II**
+2. As DragonSlayersJr growing and reaching 45 members, we will slowly, one by one move qualify active elders to DragonSlayers-I
+3. Qualified elders from **DragonSlayerJR** will be promoted to **DragonSlayersJr**
 
 **Future Expansion of the DragonSlayers clan network**
 
 **Stage 4:** The Creation of DragonSlayers-III
 
 
-**PREVIOUS WEEK**
+**PREVIOUS WEEKS**
 
 **Active King/Queen Contest**
 
-**When:** From 12/23/2013 to 1/5/2014
+**When:** From 12/23/2013 to 1/5/2014 (COMPLETED)
 
 **Who:** All can participate including leader and co-leader
 
