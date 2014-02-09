@@ -9,34 +9,41 @@
     <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="{{ site.assetsurl }}css/main.css">
-    <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
   </head>
 
-  <body>
+  <body class="theme-dark theme-dsi">
 
-    <header role="banner" class="theme-dark">
-      <div class="wrapper">
-        <h1><img src="assets/img/shield.png" alt=""> {{ page.title }}</h1>
-      </div>
-    </header>
+    <div class="l-side">
+      <div class="l-side_inner wrapper">
 
-    <div role="main">
-      <!-- HISTORY GOES HERE -->
-      <div class="wrapper">
-        <div class="l-main post">
-            <div class="post-content">
-              {{content}}
-            </div>
-        </div>
+        <header role="banner">
+          <h1 class="logo">
+            <img src="assets/img/stripe-double-metallic.svg" alt="" class="logo_art">
+            {{ page.title }}
+          </h1>
+        </header>
         <!-- NAV GOES HERE -->
+
+      </div>
+    </div>
+
+    <div class="l-main" role="main">
+      <div class="l-main_inner">
+
+        <!-- HISTORY GOES HERE -->
+        <div class="post theme-light">
+          {{content}}
+        </div>
+
       </div>
     </div>
 
     <script src="{{ site.assetsurl }}js/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.assetsurl }}js/jquery.sticky.js"></script>
+    <!-- <script src="{{ site.assetsurl }}js/jquery.sticky.js"></script> -->
     <script src="{{ site.assetsurl }}js/app.js"></script>
     <script>
       (function($)

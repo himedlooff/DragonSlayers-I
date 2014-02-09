@@ -7,10 +7,10 @@ function initPage(repo, editor) {
 
   // This function initializes all of the enhancements for the page
 
-  // Create a table of contents nav from the h1 elements in .post-content
+  // Create a table of contents nav from the h1 elements in .post
   initTOCNav();
 
-  // Add table of content links before each h1 in .post-content
+  // Add table of content links before each h1 in .post
   initTOCLinks();
 
   // Build a history list using commit messages from github
@@ -29,23 +29,33 @@ function initTOCNav() {
 
   // Creates and inserts a table of contents nav
 
-  $('.post').after(
-    '<div class="l-side" id="post-nav_wrapper">' +
+  $('.l-side_inner').append(
+    '<div id="post-nav_wrapper">' +
       '<div class="post-nav" id="post-nav">' +
-        '<h1 class="post-nav-label" id="table-of-contents">Table of contents</h1>' +
-        '<ul class="post-nav-list">' +
+        //'<h1 class="post-nav-label" id="table-of-contents">Table of contents</h1>' +
+        '<ul id="table-of-contents" class="post-nav-list">' +
           makeTOCNav() +
         '</ul>' +
       '</div>' +
     '</div>'
   );
 
-  if ($(window).width() > 48 * 16) {
-    $('#post-nav').sticky({
-      topSpacing: 0,
-      getWidthFrom: '#post-nav_wrapper'
-    });
-  }
+  // if ($(window).width() > 48 * 16 &&
+  //     $(window).height() > $('#post-nav').height()) {
+  //   $('#post-nav').sticky({
+  //     topSpacing: 0,
+  //     getWidthFrom: '#post-nav_wrapper'
+  //   });
+  // }
+
+  // window.onresize = function() {
+  //   if ($(window).width() < 48 * 16 &&
+  //       $(window).height() < $('#post-nav').height()) {
+  //     $('#post-nav').attr('style','');
+  //     $('#post-nav-sticky-wrapper').attr('style','');
+  //     $.fn.sticky = function(){};
+  //   }
+  // }
 
 }
 
@@ -56,8 +66,8 @@ function makeTOCNav() {
   var navItems = '';
 
   // Make a nav item html string for each h1 element
-  // in .post-content and append it to navItems.
-  $('.post-content h1').each(function(){
+  // in .post and append it to navItems.
+  $('.post h1').each(function(){
     navItems += makeTOCNavItem(this);
   });
 
@@ -72,8 +82,9 @@ function makeTOCNavItem(headingElement) {
   var $h = $(headingElement);
 
   return '' +
-    '<li class="nav-list_item">' +
-      '<a href="#' + $h.attr('id') + '" class="post-nav-list-item-link">' +
+    '<li class="post-nav-list_item">' +
+      '<a href="#' + $h.attr('id') + '" class="post-nav-list_item_link">' +
+        '<span class="post-nav-list_item-icon">↪</span>' +
         $h.text() +
       '</a>' +
     '</li>';
@@ -86,7 +97,7 @@ function makeTOCNavItem(headingElement) {
 
 function initTOCLinks() {
 
-  // Inserts a link to the table of contents nav before each h1 element in .post-content
+  // Inserts a link to the table of contents nav before each h1 element in .post
 
   var tocLink = '' +
         '<p class="toc-nav-jump-link">' +
@@ -95,11 +106,13 @@ function initTOCLinks() {
           '</a>' +
         '</p>';
 
-  $('.post-content h1').each(function(index){
+  $('.post h1').each(function(index){
     if (index > 0) {
       $(this).before(tocLink);
     }
   });
+
+  $('.post').append(tocLink);
 
 }
 
@@ -115,9 +128,9 @@ function initHistoryList(data, editor) {
   var scrubbedData = scrubGithubCommits(data, editor);
 
   // Create the history list and insert it into the dom.
-  $('[role="main"]').prepend(
+  $('.l-main_inner').prepend(
     '<div class="history">' +
-      '<div class="wrapper">' +
+      '<div class="history_inner">' +
         makeLatestHistoryItem(scrubbedData[0]) +
         '<ul class="history-list">' +
           makeHistoryItemList(scrubbedData) +
@@ -151,7 +164,7 @@ function makeHistoryItemList(data) {
       data[i],
       '<li class="history-list_item">' +
         '<span class="history-message">' +
-          '<span class="history-date token"></span>' +
+          '<span class="history-date token token__dark"></span>' +
         '</span> ' +
       '</li>'
     );
@@ -173,7 +186,10 @@ function makeHistoryItem(commitData, template) {
   var day = date.getDate();
   var year = date.getFullYear().toString().substr(2,2);
   var month = date.getMonth()+1;
-  var dateStr = '<span class="history-date-month-day">' + month + '-' + day + '</span>' + '-' +
+  var dateStr = '<span class="history-date-month-day">' +
+                  month + '<span class="date-delimiter">-</span>' +
+                  day +
+                '</span>' + '<span class="date-delimiter">-</span>' +
                 '<span class="history-date-year">' + year + '</span>';
 
   $template.find('.history-message').append(commitMessage);
@@ -191,12 +207,12 @@ function makeLatestHistoryItem(firstCommitData) {
   return makeHistoryItem(
     firstCommitData,
     '<p class="history-latest history-list_item">' +
-      '<span class="token-group token-group-stacked">' +
-        '<span class="history-latest-label token token__dark token-group_item token-group-stacked_item">Latest</span> ' +
-        '<span class="history-date token token-group_item token-group-stacked_item"></span>' +
-      '</span> ' +
-      '<span class="history-message"></span> ' +
-      '<span class="history-more"><a href="#">See the full history</a></span>' +
+      //'<span class="token-group token-group-stacked">' +
+        //'<span class="history-latest-label token token__attention token-group_item token-group-stacked_item">Latest</span> ' +
+        '<span class="history-date token token__attention"></span> ' +
+      //'</span> ' +
+      '<span class="history-message"></span> &nbsp;' +
+      '<span class="history-more"><a href="#" class="token token__dark">...</a></span>' +
     '</p>'
   );
 
