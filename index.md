@@ -151,7 +151,7 @@ REMEMBER that **DragonSlayersJr** is still our **main clan** at this early stage
 
 *(We are mindful that this contest is held during the Christmas break in most countries and those who normally active may not be able to participate fully.  Likewise, those normally not very active may be able to play more, thus the result of this contest may surprise us all.  The main thing is to* ***have fun*** *.)*
 
-# Past Winners of Clan's Contests
+# Past Contest Winners
 
 **Winners from DragonSlayersJr:**
 
