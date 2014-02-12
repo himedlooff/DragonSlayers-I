@@ -46,7 +46,7 @@ Elder Requirements:  (subjected to change as our clan grow)
 
 **Leaders**
 
-- Leader:    Eagles, Soulsemotion, Uncharted2000
+- Leader:    Soulsemotion, Eagles, Uncharted2000
 - Co-leader: Himedlooff, AMMJRNguyen
 
 **How to accept requests**
@@ -74,8 +74,8 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 **Leaders**
 
-- Leader:    Uncharted2000, Eagles, L.A.S.E.R
-- Co-leader: Himedlooff, AMMJRNguyen
+- Leader:    Uncharted2000, Eagles, Himedlooff,
+- Co-leader:  L.A.S.E.R, AMMJRNguyen
 
 **How to accept requests**
 
@@ -87,7 +87,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 #**DragonSlayerJR** 
 
-Currently accept players of all levels.  Elders from the main clan will come and help with donation and recruit.
+Currently accept players of level 30+.  Elders from the main clan will come and help with donation and recruit.
 
 Donation Requirement: 
 
@@ -101,11 +101,32 @@ Elder Requirement:  (subjected to change as our clan grow)
 3. Must maintain 1:3 donated/received ratio or better to remain elder
 
 - Leader: L.A.S.E.R, UnchartedWater
-- Co-leaders: (Selected elders from other clans will also serve as rotational leaders.)
+- Co-leaders: Pepe (Selected elders from other clans will also serve as rotational co-leaders.)
 
 # Current Events
 
-**NEW INFORMATION:** 
+**COMING SOON...**
+
+**Active King/Queen Contest**
+
+**When:** From 2/17/2014 to 3/2/2014 (starting at the beginning of next league season)
+
+**Who:** All can participate including leader and co-leader
+
+**Why:** To see who are active and who can be the most active
+
+**Rules:** 
+
+1. The most active member who get the highest (DONATED + RECEIVED) in the two weeks period and the Donated:Received ratio is within 1:3 will be crowned Active King/Queen.  
+
+2. The members with the worse ratio than 1:3 are automatically disqualified from the contest.  
+
+3. In the event of a tie, which is highly unlikely, the tie breaker will go to the person who have the ratio closest to 1:1 and with a higher donation.
+
+*(The main thing is to* ***have fun*** *.)*
+
+
+**INFORMATION ON CLANS DEVELOPMENT:** 
 
 **Formation of DragonSlayers clan network:** We have completed stage 1 and are currently executing **Stage 2**.
 
@@ -131,25 +152,7 @@ REMEMBER that **DragonSlayersJr** is still our **main clan** at this early stage
 **Stage 4:** The Creation of DragonSlayers-III
 
 
-**PREVIOUS WEEKS**
 
-**Active King/Queen Contest**
-
-**When:** From 12/23/2013 to 1/5/2014 (COMPLETED)
-
-**Who:** All can participate including leader and co-leader
-
-**Why:** To see who are active and who can be the most active
-
-**Rules:** 
-
-1. The most active member who get the highest (DONATED + RECEIVED) in the two weeks period and the Donated:Received ratio is within 1:3 will be crowned Active King/Queen.  
-
-2. The members with the worse ratio than 1:3 are automatically disqualified from the contest.  
-
-3. In the event of a tie, which is highly unlikely, the tie breaker will go to the person who have the ratio closest to 1:1 and with a higher donation.
-
-*(We are mindful that this contest is held during the Christmas break in most countries and those who normally active may not be able to participate fully.  Likewise, those normally not very active may be able to play more, thus the result of this contest may surprise us all.  The main thing is to* ***have fun*** *.)*
 
 # Past Contest Winners
 
