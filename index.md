@@ -105,11 +105,19 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 # Current Events
 
-**COMING SOON...**
+**We have the winners!!!**
 
 **Active King/Queen Contest**
 
-**When:** From 2/17/2014 to 3/2/2014 (starting at the beginning of next league season)
+The winners from each of our clans are:
+
+Winners from DragonSlayers-I: **soulsemotion** - Donated 3705, Received 1164.
+
+Winners from DragonSlayersJr: **Uncharted2000** - Donated 1298, Received 718.
+
+Winners from DragonSlayerJr: **Robert** - Donated 2194, Received 1010.
+
+**When:** Competition Ended
 
 **Who:** All can participate including leader and co-leader
 
@@ -156,13 +164,19 @@ REMEMBER that **DragonSlayersJr** is still our **main clan** at this early stage
 
 # Past Contest Winners
 
+**Winners from DragonSlayers-I:**
+
+1. The Active Queen: **soulsemotion** Donated 3705, Received 1164.  (3/2/2014) 
+
 **Winners from DragonSlayersJr:**
 
 1. The Active King: **Alex Medich** Donated 2617, Received 2167.  (1/5/2014) 
+2. The Active King: **Uncharted2000** Donated 1298, Received 718.  (3/2/2014) 
 
 **Winners from DragonSlayerJR (sister/feeder clan):**
 
 1. The Active King: **Pepe** Donated 1894, Received 1303.  (1/5/2014)
+2. The Active King: **Robert** Donated 2194, Received 1010.  (1/5/2014)
 
 # Other COC Links
 
