@@ -135,6 +135,10 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 # Current Events
 
+**Clan Wars!**
+
+[Click here](clan-wars/2014-04-09.html) for a list of screenshots of the enemey!
+
 **We have the winners!!!**
 
 **Active King/Queen Contest**
