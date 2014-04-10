@@ -14,11 +14,11 @@ We want to have a good family of clans, **a clan network**, where members of all
 
 **THE CURRENT 4 CLANS:** DragonSlayers-I, [DragonSlayersJr](http://bit.ly/dragonslayersjr), DragonSlayerJR, SlayersVacation
 
-**DragonSlayers-I:** Our most active clan for level 70+ or all Tier I & II troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
+**DragonSlayers-I:** Our main clan for level 70+ or all Tier I & II troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
 
-**DragonSlayersJr:** Our current main clan, and will remain as our main clan while **DragonSlayers-I** is still growing.  Required Level 55+ or minimum archers level 4.  Required a minimum donation of 200.
+**DragonSlayersJr:** We currently merged this clan with Dragonslayers-I.  This clan is currently inactive until further notice.
 
-**DragonSlayerJr:** Members of all levels are welcomed.  Minimum donation requirement 100.
+**DragonSlayerJr:** Welcome level 40++ players.  Minimum donation requirement 100.
 
 **SlayersVacation:** For members who stop playing the game for 3 seasons (6 weeks).
 
@@ -59,6 +59,8 @@ Elder Requirements:  (subjected to change as our clan grow)
 
 #**DragonSlayersJr**
 
+Recently merged with Dragonslayers-I.  Currently inactive until further notice. (Updated 4/10/2014)
+
 We are a level 55+ clan. We are an active, nice, friendly clan.  We have a good mix of adults and teenagers. Our goal is to provide a active clan for active players.  We want to have a fun environment where we can socialize while playing this fun game. We want active players who will chat, request and donate a lot. Currenly we are recruiting players at level 55+. The level of our members are constantly rising, and we will soon raise our level.
 
 Donation Requirement: 
@@ -87,7 +89,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 #**DragonSlayerJR** 
 
-Currently accept players of level 30+.  Elders from the main clan will come and help with donation and recruit.
+Currently accept players of level 40++.  Elders from the main clan will come and help with donation and recruit.
 
 Donation Requirement: 
 
@@ -102,6 +104,34 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 - Leader: L.A.S.E.R, UnchartedWater
 - Co-leaders: Pepe (Selected elders from other clans will also serve as rotational co-leaders.)
+
+# Clan War Strategy
+
+*(I am putting together something quick to help us out.  I hope that with your help, over time, we will improve this Clan War Strategy section.)*
+
+Remember to have **FUN**.  This is a game, so just try to have fun and go with the flow.  No stress.
+
+**Suggestions for preparing your base:**
+
+1. Move your townhall behind the walls during the preparation day.  Suggestion, to create a base with the inner core of 7x8, 8x8 or larger so that you can quickly convert between trophy base and farming base.
+2. Request troops that are both good for defense and offense like dragon, wizards, lvl 4+ minions, lvl 5+ archers.
+3. Train good attack troops for yourself and for donation. 
+4. Make sure your heros and your spells are ready.
+
+**Suggestions for clan attacking strategy:**
+
+1. The goal is to gain stars, just like in single player campaign.
+2. Try to fight the enemy base that not yet been raid by anyone of us.  It is easier to gain 1 star from 0 star than to improve from 1 star base to 2 stars, or 2 stars to 3 stars
+3. Uncharted and Ammjr suggest that we should take our top level members to fight against their 2nd levels members, our 2nd levels fight against their 3rd levels, and our 3rd levels fight against their top levels.  For example or #1 player fight agains their #10 townhall, #2 players fight against their #11 townhall, etc...
+4. We should have members with weakest troops start the fight first.  And we should start from the enemy weakest base and work our way up.
+
+**Important distinction when talk about strength/ranking level:**
+
+1. The bases in the war zone is ranked based on defense capability
+2. The attacker strength is based on the level of the troops the attacker can train.
+3. For example: base like that of Eagles, who have a max out TH8 and just upgrade to TH9 do not have lvl6 troops.  Eagles' base is ranked 13, but his attack strength may not be as high.  The point is that we should try to communicate with each other, understand all members troop strength and coordinate our attack.
+
+
 
 # Current Events
 
