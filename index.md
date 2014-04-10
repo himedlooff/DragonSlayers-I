@@ -111,6 +111,8 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 Remember to have **FUN**.  This is a game, so just try to have fun and go with the flow.  No stress.
 
+**Clan Wars FAQ** [http://forum.supercell.net/showthread.php/232849-Clan-Wars-FAQ]
+
 **Suggestions for preparing your base:**
 
 1. Move your townhall behind the walls during the preparation day.  Suggestion, to create a base with the inner core of 7x8, 8x8 or larger so that you can quickly convert between trophy base and farming base.
@@ -133,7 +135,9 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 **Screen Capture Enemy War Bases**
 
-[Screenshots of enemy bases for the 2014-04-09/10 Clan War](clan-wars/2014-04-09.html).
+**DragonSlayers-I:** [Screenshots of enemy bases for the 2014-04-09/10 Clan War](clan-wars/2014-04-09.html).
+
+**DragonSlayerJR:** TBD (Currently Himedlooff is doing this for DSI, we need a better way to do this so Himedlooff does not have to do this all the time.)
 
 In the future, I would like to be able to put up enemy bases on Google drive or dropbox, and share it with our members regarding attacking strategy, type of troops to use, etc.  Does anyone have a section of Google drive or dropbox that you want to use for this purpose?
 
