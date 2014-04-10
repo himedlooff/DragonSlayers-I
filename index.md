@@ -111,7 +111,7 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 Remember to have **FUN**.  This is a game, so just try to have fun and go with the flow.  No stress.
 
-**Clan Wars FAQ** [http://forum.supercell.net/showthread.php/232849-Clan-Wars-FAQ]
+**For Clan Wars FAQ:** [**Clan Wars FAQ**](http://forum.supercell.net/showthread.php/232849-Clan-Wars-FAQ)
 
 **Suggestions for preparing your base:**
 
