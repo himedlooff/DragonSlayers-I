@@ -131,6 +131,9 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 2. The attacker strength is based on the level of the troops the attacker can train.
 3. For example: base like that of Eagles, who have a max out TH8 and just upgrade to TH9 do not have lvl6 troops.  Eagles' base is ranked 13, but his attack strength may not be as high.  The point is that we should try to communicate with each other, understand all members troop strength and coordinate our attack.
 
+**Screen Capture Enemy War Bases**
+
+In the future, I would like to be able to put up enemy bases on Google drive or dropbox, and share it with our members regarding attacking strategy, type of troops to use, etc.  Does anyone have a section of Google drive or dropbox that you want to use for this purpose?
 
 
 # Current Events
