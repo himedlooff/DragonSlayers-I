@@ -122,7 +122,7 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 1. The goal is to gain stars, just like in single player campaign.
 2. Try to fight the enemy base that not yet been raid by anyone of us.  It is easier to gain 1 star from 0 star than to improve from 1 star base to 2 stars, or 2 stars to 3 stars
-3. Uncharted and Ammjr suggest that we should take our top level members to fight against their 2nd levels members, our 2nd levels fight against their 3rd levels, and our 3rd levels fight against their top levels.  For example or #1 player fight agains their #10 townhall, #2 players fight against their #11 townhall, etc...
+3. Uncharted and Ammjr suggest that we should take our top level members to fight against their 2nd levels members, our 2nd levels fight against their 3rd levels, and our 3rd levels fight against their top levels.  For example our #1 player fight agains their #10 townhall, our #2 players fight against their #11 townhall, etc...
 4. We should have members with weakest troops start the fight first.  And we should start from the enemy weakest base and work our way up.
 
 **Important distinction when talk about strength/ranking level:**
