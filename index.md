@@ -133,14 +133,12 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 **Screen Capture Enemy War Bases**
 
+[Screenshots of enemy bases for the 2014-04-09/10 Clan War](clan-wars/2014-04-09.html).
+
 In the future, I would like to be able to put up enemy bases on Google drive or dropbox, and share it with our members regarding attacking strategy, type of troops to use, etc.  Does anyone have a section of Google drive or dropbox that you want to use for this purpose?
 
 
 # Current Events
-
-**Clan Wars!**
-
-[Click here](clan-wars/2014-04-09.html) for a list of screenshots of the enemey!
 
 **We have the winners!!!**
 
