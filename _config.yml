@@ -2,6 +2,7 @@
 baseurl: '/DragonSlayers-I'
 baseurlremote:  '/DragonSlayers-I'
 assetsurl:      'assets/'
+markdown: kramdown
 
 # Google Analytics
 ga:
