@@ -135,7 +135,7 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 **Screen Capture Enemy War Bases**
 
-**DragonSlayers-I:** [Screenshots of enemy bases for the 2014-04-09/10 Clan War](clan-wars/2014-04-09.html).
+**DragonSlayers-I:** [Screenshots of enemy bases for the 2014-04-11/12 Clan War](clan-wars/2014-04-11.html).
 
 **DragonSlayerJR:** TBD (Currently Himedlooff is doing this for DSI, we need a better way to do this so Himedlooff does not have to do this all the time.)
 
