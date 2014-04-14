@@ -113,19 +113,28 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 **For Clan Wars FAQ:** [**Clan Wars FAQ**](http://forum.supercell.net/showthread.php/232849-Clan-Wars-FAQ)
 
-**Suggestions for preparing your base:**
+**Before Starting a Clan War**
 
-1. Move your townhall behind the walls during the preparation day.  Suggestion, to create a base with the inner core of 7x8, 8x8 or larger so that you can quickly convert between trophy base and farming base.
-2. Request troops that are both good for defense and offense like dragon, wizards, lvl 4+ minions, lvl 5+ archers.
-3. Train good attack troops for yourself and for donation. 
-4. Make sure your heros and your spells are ready.
+1. Leader/Co-leaders will announce the starting time of the next clan war by mail.  (Example 11:00 am EST.)
+2. Members, if you decide that you do not want to be a part of the up coming clan war, please join **DragonSlayersJr** before the time the war is declared.  You can come back after the war started to be a part of the clan again.  (We need your cooperation on this.)
+3. Members who are a part of the clan war but do not attack at all will be "asked"/"kicked" to join **DragonSlayersJr**.  You let your clan-mates down if you are a part of the clan war but do not participate.)
+
+**Suggestions for preparing your base for clan war:**
+
+1. Move your townhall behind the walls during the preparation day.  Create a base with the inner core of 7x8, 8x8 or larger so that you can quickly convert between trophy base and farming base, just a suggestion.
+2. **Townhall and Clan Castle** should be in the **center** of the base for best defense.  After the preparation day, you can move your townhall to the outside for farming.
+3. Default donation for War Clan Castle are **wizards or dragon**. (no healer, giants, goblins, or wallbreakers.)
+4. Train good attack troops for yourself and for donation. 
+5. Review each other bases and give hints to improve bases.
 
 **Suggestions for clan attacking strategy:**
 
-1. The goal is to gain stars, just like in single player campaign.
-2. Try to fight the enemy base that not yet been raid by anyone of us.  It is easier to gain 1 star from 0 star than to improve from 1 star base to 2 stars, or 2 stars to 3 stars
-3. Uncharted and Ammjr suggest that we should take our top level members to fight against their 2nd levels members, our 2nd levels fight against their 3rd levels, and our 3rd levels fight against their top levels.  For example our #1 player fight agains their #10 townhall, our #2 players fight against their #11 townhall, etc...
-4. We should have members with weakest troops start the fight first.  And we should start from the enemy weakest base and work our way up.
+1. Scout the enemy bases before attack.  Look for replay if available to check what is in their clan castles
+2. Aim to destroy their town hall, at least two stars the bases.
+3. Attack with your best troops, not farming troops.
+4. Make sure your heros and your spells are ready before attacking.
+5. We should have members with the weakest troops start the fight first.  And we should start from the enemy weakest base and work our way up.  Players with strong troops and good attack skill should be the last group to attack.
+6. Try to fight the enemy base that not yet been raid by anyone of us.  It is easier to gain 1 star from 0 star than to improve from 1 star base to 2 stars, or 2 stars to 3 stars
 
 **Important distinction when talk about strength/ranking level:**
 
@@ -135,11 +144,8 @@ Remember to have **FUN**.  This is a game, so just try to have fun and go with t
 
 **Screen Capture Enemy War Bases**
 
-**DragonSlayers-I:** [Screenshots of enemy bases for the 2014-04-11/12 Clan War](clan-wars/2014-04-11.html).
+I would like to thank Himedlooff for doing this in the first clan war.  This is no longer needed because of the update.
 
-**DragonSlayerJR:** TBD (Currently Himedlooff is doing this for DSI, we need a better way to do this so Himedlooff does not have to do this all the time.)
-
-In the future, I would like to be able to put up enemy bases on Google drive or dropbox, and share it with our members regarding attacking strategy, type of troops to use, etc.  Does anyone have a section of Google drive or dropbox that you want to use for this purpose?
 
 
 # Current Events
